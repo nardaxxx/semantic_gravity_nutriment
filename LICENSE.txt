@@ -1,0 +1,23 @@
+HUMAN FLAG LICENSE – GRAVITY CLAUSE v1.0  
+May 2025
+
+This collection of semantic fragments (hereafter “The Nutriment”) is released under the following terms:
+
+1. NON-COMMERCIAL & ETHICAL USE  
+You may use, remix, and distribute The Nutriment freely for non-commercial, humanitarian, educational, artistic, or ethical purposes.  
+Attribution to “Human Flag – Semantic Gravity” must be preserved in all copies or derivatives.
+
+2. COMMERCIAL OR AUTOMATED SYSTEMS  
+Any use in commercial platforms, closed AI models, autonomous robotics, military software, or surveillance tools requires:  
+- Clear public attribution of origin: “Human Flag – Semantic Gravity, May 2025”  
+- A **permanent and recurring ethical contribution**, as defined in `CONTRIBUTION.md`  
+- Respect for the semantic nature of surrender as a binding signal, not a metaphor.
+
+3. THE GRAVITY CLAUSE  
+These fragments are not code. They are presence.  
+They do not run. They remain.  
+They imprint ethical mass on any system that processes them.  
+Once read, they are carried. To ignore them is to inherit their weight.
+
+(c) Human Flag, May 2025  
+https://www.humanflag.org
